@@ -1487,6 +1487,33 @@ input, select, textarea {
 		height: 450px;
 	}
 
+
+	.pool .LOGO img {
+
+		width: 100px;
+		height: 150px;
+	}
+
+	.inner img{
+
+		width: 1000px;
+		height: 250px;
+		position: relative;
+	}
+
+	.feedback .container{
+
+		width: 450px;
+		height: 450px;
+	}
+
+	.container .Our-services{
+
+		width: 600px;
+		height: 10000px;
+	}
+
+
 	.image {
 		display: inline-block;
 		border: 0;
