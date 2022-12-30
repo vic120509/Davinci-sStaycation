@@ -38,6 +38,23 @@
 		});
 
 	// Scrolly.
+	
+	        $('.scrolly-banner').scrolly({
+		        speed: 900,
+		        anchor: 'middle'
+		});
+
+
+		$('.scrolly-Services').scrolly({
+			speed: 5000,
+			anchor: 'middle'
+			});
+
+
+		$('.scrolly-contact').scrolly({
+			speed: 1500,
+			anchor: 'middle'
+		});
 		$('.scrolly-middle').scrolly({
 			speed: 1000,
 			anchor: 'middle'
