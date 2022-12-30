@@ -1607,6 +1607,12 @@ input, select, textarea {
 		padding-left: 0;
 		text-align: right;
 	}
+	.copyright ul.menu  {
+		cursor: default;
+		list-style: none;
+		padding-left: 0;
+		text-align: center;
+	}
 
 		ul.menu li {
 			display: inline-block;
