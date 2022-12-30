@@ -51,10 +51,11 @@
 			});
 
 
-		$('.scrolly-contact').scrolly({
+		$('.scrolly-Contact').scrolly({
 			speed: 1500,
 			anchor: 'middle'
 		});
+	
 		$('.scrolly-middle').scrolly({
 			speed: 1000,
 			anchor: 'middle'
