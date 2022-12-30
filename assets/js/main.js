@@ -43,7 +43,11 @@
 		        speed: 900,
 		        anchor: 'middle'
 		});
-
+	
+	 	$('.scrolly-inner').scrolly({
+		        speed: 900,
+		        anchor: 'middle'
+		});
 
 		$('.scrolly-Services').scrolly({
 			speed: 5000,
