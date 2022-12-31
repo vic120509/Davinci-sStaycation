@@ -44,7 +44,7 @@
 		        anchor: 'middle'
 		});
 	
-	 	$('.scrolly-photo-gallery').scrolly({
+	 	$('.scrolly-photo').scrolly({
 		        speed: 900,
 		        anchor: 'middle'
 		});
