@@ -2032,7 +2032,7 @@ input, select, textarea {
 
 
 .navbar {
-	opacity:initial;
+	opacity:80%;
     	position: fixed;
 	color: #dad9d9;
     	width: 100%;
